@@ -1,0 +1,16 @@
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.exe
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.deps.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.runtimeconfig.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\bin\Debug\net5.0\Adivina la palabra.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\refint\Adivina la palabra.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\Adivina la palabra.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\Adivina la palabra\Adivina la palabra\obj\Debug\net5.0\ref\Adivina la palabra.dll
